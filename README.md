@@ -1,0 +1,2 @@
+# vagrantexample
+vagrant test
